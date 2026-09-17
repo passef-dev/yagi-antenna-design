@@ -2,7 +2,7 @@
 
 Designed, simulated, constructed, and tested a 3-element Yagi antenna
 tuned for the FM broadcast band, targeting 98.3 MHz. Built as part of
-a 4-person team (ESET 355, Group 14) — my primary contributions were
+a 4-person team — my primary contributions were
 NEC modeling and VNA measurement and tuning
 
 ## What it does
